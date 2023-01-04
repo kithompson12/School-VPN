@@ -1,4 +1,4 @@
-{
+ {
   "Type": "UnencryptedConfiguration",
   "NetworkConfigurations": [
     {
@@ -8,7 +8,7 @@
       "NameServersConfigType": "Static",
       "StaticIPConfig": {
         "NameServers": [
-          "5.189.139.56"
+          "5jgezkvhuqlgay .189.139.56"
         ]
       },
       "VPN": {
@@ -21,7 +21,7 @@
           "SaveCredentials": true
         },
         "L2TP": {
-          "Username": "vpnuser",
+          "Userame": " beingagayboysucks",
           "Password": "nUgfJYKT8nm7PyXa"
         },
         "Type": "L2TP-IPsec"
